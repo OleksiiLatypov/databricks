@@ -1,0 +1,47 @@
+-- Databricks notebook source
+-- MAGIC %md
+-- MAGIC
+-- MAGIC <div style="text-align: center; line-height: 0; padding-top: 9px;">
+-- MAGIC   <img src="https://databricks.com/wp-content/uploads/2018/03/db-academy-rgb-1200px.png" alt="Databricks Learning">
+-- MAGIC </div>
+-- MAGIC
+
+-- COMMAND ----------
+
+-- MAGIC %md
+-- MAGIC # Get Started with Data Engineering on Databricks
+-- MAGIC
+-- MAGIC In this course, you will learn basic skills that will allow you to use the Databricks Data Intelligence Platform to perform a simple data engineering workflow. You will be given a tour of the workspace, and be shown how to work with objects in Databricks such as catalogs, schemas, volumes, tables, compute clusters, and notebooks. You will follow a basic data engineering workflow to perform tasks such as creating and working with tables, ingesting data into Delta Lake, transforming data through the medallion architecture, and using Databricks Workflows to orchestrate data engineering tasks. With the purchase of a Databricks Labs subscription, the course also closes out with a comprehensive lab exercise to practice what you’ve learned in a live Databricks Workspace environment.
+-- MAGIC
+-- MAGIC </br>
+-- MAGIC
+-- MAGIC ## Course Agenda
+-- MAGIC The following notebooks are part of the module.
+-- MAGIC | # |Type| Notebook|
+-- MAGIC | --- |---| --- |
+-- MAGIC | 01 |Demo| [Creating and Working with a Delta Table]($./Get Started with Data Engineering on Databricks/DEWD00 - 01-Creating and Working with a Delta Table) |
+-- MAGIC | 02 |Demo| [Ingesting Data into Delta Lake]($./Get Started with Data Engineering on Databricks/DEWD00 - 02-Ingesting Data into Delta Lake) |
+-- MAGIC | 03 |Demo| [Transforming Data Using the Medallion Architecture]($./Get Started with Data Engineering on Databricks/DEWD00 - 03-Transforming Data Using the Medallion Architecture) |
+-- MAGIC | 04 |Demo| [Creating a Simple Databricks Workflow]($./Get Started with Data Engineering on Databricks/DEWD00 - 04-Creating a Simple Databricks Workflow) |
+-- MAGIC | 04A |Demo| [Workflow Task 1 - Setup - Bronze]($./Get Started with Data Engineering on Databricks/DEWD00 - 04A-Workflow Task 1 - Setup - Bronze) |
+-- MAGIC | 04B |Demo| [Workflow Task 2 - Silver - Gold]($./Get Started with Data Engineering on Databricks/DEWD00 - 04B-Workflow Task 2 - Silver - Gold) |
+-- MAGIC | 05L |Lab| [Ingest and Manipulate a Delta Table Lab]($./Get Started with Data Engineering on Databricks/DEWD00 - 05L - Ingest and Manipulate a Delta Table Lab) |
+-- MAGIC
+-- MAGIC </br>
+-- MAGIC
+-- MAGIC ## Requirements
+-- MAGIC
+-- MAGIC Please review the following requirements before starting the lesson:
+-- MAGIC
+-- MAGIC * To run demo and lab notebooks, you need to use the following Databricks runtime: **15.4.x-scala2.12**.
+
+-- COMMAND ----------
+
+-- MAGIC %md
+-- MAGIC
+-- MAGIC &copy; 2025 Databricks, Inc. All rights reserved.<br/>
+-- MAGIC Apache, Apache Spark, Spark and the Spark logo are trademarks of the 
+-- MAGIC <a href="https://www.apache.org/">Apache Software Foundation</a>.<br/>
+-- MAGIC <br/><a href="https://databricks.com/privacy-policy">Privacy Policy</a> | 
+-- MAGIC <a href="https://databricks.com/terms-of-use">Terms of Use</a> | 
+-- MAGIC <a href="https://help.databricks.com/">Support</a>
