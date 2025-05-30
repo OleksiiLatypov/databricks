@@ -1,0 +1,2 @@
+/workspaces/databricks/IBM/spark-3.3.3-bin-hadoop3/bin/spark-class: line 71: /usr/lib/jvm/java-1.11.0-openjdk-amd64/bin/java: No such file or directory
+/workspaces/databricks/IBM/spark-3.3.3-bin-hadoop3/bin/spark-class: line 96: CMD: bad array subscript
